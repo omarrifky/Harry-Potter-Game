@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="harrypotter.view.GameView"/>
+<fullyQualifiedTypeName name="harrypotter.model.character.Wizard"/>
+<fullyQualifiedTypeName name="java.awt.BorderLayout"/>
+<fullyQualifiedTypeName name="java.awt.Image"/>
+<fullyQualifiedTypeName name="com.sun.prism.Image"/>
+<fullyQualifiedTypeName name="harrypotter.model.character.GryffindorWizard"/>
+</qualifiedTypeNameHistroy>
